@@ -12,8 +12,14 @@ To address this need, we adopt the idea of a *generalized statespace* in a *gene
 
 This flexibility allows us to model statespaces that reflect a broader variety of system architectures, bridging the gap between numerical and symbolic representations. Consequently, GDS provides a versatile framework for analyzing systems that are challenging to express through purely numerical methods, extending the applicability of dynamical systems theory to fields like artificial intelligence, linguistics, and complex systems biology.
 
-## Introduction
+## Outline
 
-The introductory notebook covers types, schemas, and spaces with an emphasis on constructing custom spaces by equipping various tools such as constraints, metrics, visualization tools, and more. You can find the notebook [here](introduction.ipynb).
+- [x][introdction.ipynb](introduction.ipynb):This introductory notebook covers types and schemas, building up to points and spaces.
+- [x][spaces.ipynb](spaces.ipynb): This notebook briefly reviews how spaces are constructed from schemas, then explores additional concepts like point generators, visualization tools, operations and metrics.
+- [ ][blocks.ipynb]()
+- [ ] simple example 1
+- [ ][composing_spaces]()
+- [ ][composing_blocks]()
+- [ ] complex example
 
 
