@@ -14,9 +14,9 @@ This flexibility allows us to model statespaces that reflect a broader variety o
 
 ## Outline
 
-- [x] [introdction.ipynb](introduction.ipynb):This introductory notebook covers types and schemas, building up to points and spaces.
+- [x] [introdction.ipynb](introduction.ipynb): This introductory notebook covers types and schemas, building up to points and spaces.
 - [x] [spaces.ipynb](spaces.ipynb): This notebook briefly reviews how spaces are constructed from schemas, then explores additional concepts like point generators, visualization tools, operations and metrics.
-- [x] [blocks.ipynb](blocks.ipynb)
+- [x] [blocks.ipynb](blocks.ipynb): This notebook builds on spaces to declare blocks whose domains and codomains are spaces. Blocks are also given paramSpaces so that they can exhibit a broader range of behaviors.
 - [ ] [composing_spaces](composing_spaces.ipynb)
 - [ ] [composing_blocks](composing_blocks.ipynb)
 - [ ] example of wiring up a dynamic game
